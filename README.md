@@ -1,7 +1,7 @@
 # Hey, I'm Tiago 👋
 
 Senior Data Scientist and AI/GenAI Engineer building systems that go from prototype to production.  
-Currently at **BUNDESLIGA**, shaping the analytics intelligence layer for professional football.  
+Currently at **DFL Deutsche Fußball Liga**, shaping the analytics intelligence layer for professional football.  
 Previously at **Mercedes-Benz** — ML forecasting, enterprise RAG, and cloud-scale data platforms.
 
 ---
@@ -31,11 +31,7 @@ Previously at **Mercedes-Benz** — ML forecasting, enterprise RAG, and cloud-sc
 
 ## GitHub stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TschangoMP&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=TschangoMP&theme=dark&hide_border=true" height="160" alt="GitHub streak" />
-</p>
+![GitHub streak](https://streak-stats.demolab.com/?user=TschangoMP&theme=dark&hide_border=true)
 
 ---
 
