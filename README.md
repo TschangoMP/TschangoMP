@@ -1,7 +1,7 @@
 # Hey, I'm Tiago 👋
 
 Senior Data Scientist and AI/GenAI Engineer building systems that go from prototype to production.  
-Currently at **DFL Deutsche Fußball Liga**, shaping the analytics intelligence layer for professional football.  
+Currently at **BUNDESLIGA**, shaping the analytics intelligence layer for professional football.  
 Previously at **Mercedes-Benz** — ML forecasting, enterprise RAG, and cloud-scale data platforms.
 
 ---
