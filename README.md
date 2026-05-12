@@ -31,7 +31,11 @@ Previously at **Mercedes-Benz** — ML forecasting, enterprise RAG, and cloud-sc
 
 ## GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TschangoMP&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TschangoMP&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=TschangoMP&theme=dark&hide_border=true" height="160" alt="GitHub streak" />
+</p>
 
 ---
 
