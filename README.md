@@ -14,18 +14,6 @@ Previously at **Mercedes-Benz** — ML forecasting, enterprise RAG, and cloud-sc
 
 ---
 
-## Featured projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**toolfocus**](https://github.com/TschangoMP/toolfocus) | Pre-turn MCP tool-surface pruning (−70% schema tokens, 99% recall), on-demand tool recovery, and deterministic runtime guards for coding agents | TypeScript · MCP |
-| [**tau**](https://github.com/TschangoMP/tau) | τ — a local coding agent built from swappable modules: harness, engine, model, TUI, skills | Python |
-| [**sp500-dashboard**](https://github.com/TschangoMP/sp500-dashboard) | Investment-banking-style S&P 500 dashboard: 10y price history, sector structure, concentration, sortable constituents | HTML · JS |
-
-More on my [repositories page](https://github.com/TschangoMP?tab=repositories).
-
----
-
 ## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)

@@ -313,7 +313,8 @@ def render_stats(stats: Stats | None, theme: dict, login: str) -> str:
         parts.append(f'  <text x="{lx + 12}" y="{ly}" class="small">{escape(text)}</text>')
         lx += width
     if not langs:
-        parts.append(f'  <text x="{lx}" y="{ly}" class="small">Generated daily by GitHub Actions – first run pending</text>')
+        note = "No language data yet" if s else "Generated daily by GitHub Actions – first run pending"
+        parts.append(f'  <text x="{lx}" y="{ly}" class="small">{note}</text>')
 
     name = s.name.split()[0] if s else login
     label = f"GitHub stats for {login}"
