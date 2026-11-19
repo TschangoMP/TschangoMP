@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="200" viewBox="0 0 460 200" role="img" aria-label="GitHub contribution streak for TschangoMP">
+  <title>GitHub contribution streak for TschangoMP</title>
+  <style>
+    text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+    .title { font-size: 16px; font-weight: 600; fill: #e6edf3; }
+    .label { font-size: 13px; fill: #9198a1; }
+    .value { font-size: 13px; font-weight: 600; fill: #e6edf3; }
+    .big { font-size: 28px; font-weight: 700; fill: #e6edf3; }
+    .big-accent { font-size: 28px; font-weight: 700; fill: #f778ba; }
+    .small { font-size: 11px; fill: #9198a1; }
+  </style>
+  <rect x="0.5" y="0.5" width="459" height="199" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="36" class="title">Contribution streak</text>
+  <text x="92.7" y="104" class="big" text-anchor="middle">–</text>
+  <text x="92.7" y="132" class="label" text-anchor="middle">Contributions</text>
+  <text x="230.0" y="104" class="big-accent" text-anchor="middle">–</text>
+  <text x="230.0" y="132" class="label" text-anchor="middle">Current streak</text>
+  <line x1="161.3" y1="72" x2="161.3" y2="160" stroke="#30363d"/>
+  <text x="367.3" y="104" class="big" text-anchor="middle">–</text>
+  <text x="367.3" y="132" class="label" text-anchor="middle">Longest streak</text>
+  <line x1="298.7" y1="72" x2="298.7" y2="160" stroke="#30363d"/>
+  <text x="230.0" y="182" class="small" text-anchor="middle">Generated daily by GitHub Actions – first run pending</text>
+</svg>

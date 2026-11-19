@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="200" viewBox="0 0 460 200" role="img" aria-label="GitHub stats for TschangoMP">
+  <title>GitHub stats for TschangoMP</title>
+  <style>
+    text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+    .title { font-size: 16px; font-weight: 600; fill: #1f2328; }
+    .label { font-size: 13px; fill: #59636e; }
+    .value { font-size: 13px; font-weight: 600; fill: #1f2328; }
+    .big { font-size: 28px; font-weight: 700; fill: #1f2328; }
+    .big-accent { font-size: 28px; font-weight: 700; fill: #bf3989; }
+    .small { font-size: 11px; fill: #59636e; }
+  </style>
+  <rect x="0.5" y="0.5" width="459" height="199" rx="8" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="24" y="36" class="title">TschangoMP&#x27;s GitHub stats</text>
+  <text x="24" y="66" class="label">Total stars</text>
+  <text x="218" y="66" class="value" text-anchor="end">–</text>
+  <text x="24" y="90" class="label">Public repos</text>
+  <text x="218" y="90" class="value" text-anchor="end">–</text>
+  <text x="24" y="114" class="label">Commits</text>
+  <text x="218" y="114" class="value" text-anchor="end">–</text>
+  <text x="242" y="66" class="label">Pull requests</text>
+  <text x="436" y="66" class="value" text-anchor="end">–</text>
+  <text x="242" y="90" class="label">Issues</text>
+  <text x="436" y="90" class="value" text-anchor="end">–</text>
+  <text x="242" y="114" class="label">Followers</text>
+  <text x="436" y="114" class="value" text-anchor="end">–</text>
+  <text x="24" y="142" class="small">Top languages (public repos)</text>
+  <clipPath id="bar"><rect x="24" y="150" width="412" height="8" rx="4"/></clipPath>
+  <rect x="24" y="150" width="412" height="8" rx="4" fill="#eaeef2"/>
+  <text x="24" y="178" class="small">Generated daily by GitHub Actions – first run pending</text>
+</svg>
