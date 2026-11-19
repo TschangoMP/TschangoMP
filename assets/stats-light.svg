@@ -26,5 +26,5 @@
   <text x="24" y="142" class="small">Top languages (public repos)</text>
   <clipPath id="bar"><rect x="24" y="150" width="412" height="8" rx="4"/></clipPath>
   <rect x="24" y="150" width="412" height="8" rx="4" fill="#eaeef2"/>
-  <text x="24" y="178" class="small">Generated daily by GitHub Actions – first run pending</text>
+  <text x="24" y="178" class="small">No language data yet</text>
 </svg>
